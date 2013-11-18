@@ -1,3 +1,7 @@
+Finished JavaScript excersise for Phase 2 Portfolio Challenges - DBC Chicago, 2013
+
+-------
+
 ## Overview
 
 Understanding how to bind and handle events is a core part of being a web developer. This challenge tasks you to take a reasonably well factored Javascript application and extend it to include event bindings. Some of the good practices you'll see in the provided code are:
